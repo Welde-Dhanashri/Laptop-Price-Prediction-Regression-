@@ -16,15 +16,6 @@ To predict laptop prices using the following features:
 
 ---
 
-## 🧰 Tech Stack
-
-- **Language:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Modeling Techniques:** Random Forest, XGBoost, K-Nearest Neighbors (KNN)  
-- **Hyperparameter Tuning:** GridSearchCV  
-
----
-
 ## 🧭 Project Workflow
 
 ### 1️⃣ Summary Statistics
